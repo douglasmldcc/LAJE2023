@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 11958603783ced04bada4fc6dab748f2
+guid: bbd944b0997187f4aa6d2bf9acb0df93
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 3
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -123,421 +123,379 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PlayerProjeto_0
+      name: PlayerProjetoShadows_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 1060
-        width: 307
-        height: 891
+        x: 46
+        y: 1043
+        width: 311
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1708a2995daf3047bcbca02079e7ca2
-      internalID: -637398684
+      spriteID: 9dae4c8cd54362c48a70ed1a63cffa47
+      internalID: 1842423590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_1
+      name: PlayerProjetoShadows_1
       rect:
         serializedVersion: 2
         x: 488
-        y: 1055
-        width: 276
-        height: 891
+        y: 1043
+        width: 325
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b01b6c18fb9980e4f94e5439f0252768
-      internalID: 186297644
+      spriteID: 2bc4aec718add9248ba4f93f3188978a
+      internalID: 104293464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_2
+      name: PlayerProjetoShadows_2
       rect:
         serializedVersion: 2
         x: 865
-        y: 1085
+        y: 1055
         width: 336
-        height: 891
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6568519a22817954893e8f6ab80741bd
-      internalID: 124400719
+      spriteID: 461d9aa27c2859f4c99e6ccd792ccd57
+      internalID: -1688446024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_3
+      name: PlayerProjetoShadows_3
       rect:
         serializedVersion: 2
         x: 1332
-        y: 1068
-        width: 276
-        height: 891
+        y: 1055
+        width: 317
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d1ca4cc7da37bb499e8f7a185a8d6a4
-      internalID: 1298902350
+      spriteID: 4ad59ee0a26ac0f46a0bacfe4f8dfeea
+      internalID: 1021387060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_4
+      name: PlayerProjetoShadows_4
       rect:
         serializedVersion: 2
-        x: 1737
-        y: 1075
+        x: 1733
+        y: 1055
         width: 349
-        height: 891
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ba5091dc90338d4880801faecc3feed
-      internalID: -221466551
+      spriteID: 260e92b1ae12bf640b737103bc03d779
+      internalID: 1693045035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_5
+      name: PlayerProjetoShadows_5
       rect:
         serializedVersion: 2
         x: 2193
-        y: 1088
-        width: 307
-        height: 891
+        y: 1064
+        width: 311
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40ac118e3eca1954fb3e01f81f78e8d3
-      internalID: 188998965
+      spriteID: 83dccef630933504ea5783bc12b162b0
+      internalID: -912124708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_6
+      name: PlayerProjetoShadows_6
       rect:
         serializedVersion: 2
-        x: 2637
-        y: 1066
-        width: 294
-        height: 891
+        x: 2624
+        y: 1064
+        width: 311
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e443ab315ed6c8f4ab3c605b2c0a0057
-      internalID: 714220075
+      spriteID: f99a8535b6e156d42b9d65e1e3b3e078
+      internalID: 1073631772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_7
+      name: PlayerProjetoShadows_7
       rect:
         serializedVersion: 2
-        x: 3061
-        y: 1085
-        width: 307
-        height: 891
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ccf4b118c2637c488c6879a25e2def9
-      internalID: 1898154664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerProjeto_8
-      rect:
-        serializedVersion: 2
-        x: 3472
+        x: 3050
         y: 1073
-        width: 298
-        height: 891
+        width: 318
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e27f42de0fa035244b1c1b3e5f955333
-      internalID: -305925145
+      spriteID: 63f51e8b7a2dafa4ca1835e0967915c4
+      internalID: 1943578300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_10
+      name: PlayerProjetoShadows_8
       rect:
         serializedVersion: 2
-        x: 528
-        y: 102
-        width: 275
-        height: 891
+        x: 3460
+        y: 1073
+        width: 312
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3e769bfe9af81f4aaa48033f3185bd9
-      internalID: 357785602
+      spriteID: 5ca19a0da406586419ea73c047960161
+      internalID: -1387373134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_11
+      name: PlayerProjetoShadows_9
       rect:
         serializedVersion: 2
-        x: 891
+        x: 57
         y: 97
-        width: 349
-        height: 891
+        width: 311
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 312d02da0f1bd8d45a991eda7973946f
-      internalID: -1891250063
+      spriteID: 0144bebb4a7bbd943ab274f286234309
+      internalID: 699335027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_12
+      name: PlayerProjetoShadows_10
       rect:
         serializedVersion: 2
-        x: 1343
-        y: 87
-        width: 276
-        height: 891
+        x: 500
+        y: 83
+        width: 309
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b48006d1340852d4b92f59e39f3458fb
-      internalID: -438917854
+      spriteID: 4bdb4d99d35b3b44f8cecdbf9815a76f
+      internalID: -1788784565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_13
+      name: PlayerProjetoShadows_11
       rect:
         serializedVersion: 2
-        x: 1756
-        y: 89
-        width: 336
-        height: 891
+        x: 895
+        y: 78
+        width: 353
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b42775b7fb2168d418be1b4bd8f7a75a
-      internalID: -955887888
+      spriteID: ba173bb1184f54f4c8acf1081a9acc87
+      internalID: -1324618445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_14
+      name: PlayerProjetoShadows_12
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 70
+        width: 311
+        height: 904
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27752df4cf44e40bb94f234ab2617d
+      internalID: 971854402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerProjetoShadows_13
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 63
+        width: 344
+        height: 904
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d03cc0ce683c40a6bf18c595da9ed
+      internalID: 490770160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerProjetoShadows_14
       rect:
         serializedVersion: 2
         x: 2212
-        y: 85
-        width: 325
-        height: 891
+        y: 72
+        width: 328
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ae57e4213a98f54a9dcf1d0de36744c
-      internalID: 1054729327
+      spriteID: 8aa3067f1b0dfcc499f746f72bbafa59
+      internalID: -559005570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_16
+      name: PlayerProjetoShadows_15
       rect:
         serializedVersion: 2
         x: 2615
-        y: 95
-        width: 326
-        height: 891
+        y: 72
+        width: 332
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69ef5a6fa9ba912439ade9ae5917c62a
-      internalID: 53914222
+      spriteID: 8ea8bf687fb61dd46a288f611647a62e
+      internalID: -1596313104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_17
+      name: PlayerProjetoShadows_16
       rect:
         serializedVersion: 2
         x: 3038
-        y: 74
-        width: 326
-        height: 891
+        y: 63
+        width: 332
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd78df500132d6a43890102a820c79fa
-      internalID: 519785910
+      spriteID: 3db668c352369b84c95088194851bdc5
+      internalID: 2039357050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerProjeto_9
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 112
-        width: 307
-        height: 891
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: da205376c547a294a83ab805f1f37fae
-      internalID: 1192576320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerProjeto_18
+      name: PlayerProjetoShadows_17
       rect:
         serializedVersion: 2
         x: 3438
-        y: 91
-        width: 324
-        height: 891
+        y: 82
+        width: 347
+        height: 904
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86dddfe02039edb4b92195941f4b931c
-      internalID: 960761844
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerProjeto_20
-      rect:
-        serializedVersion: 2
-        x: 3360
-        y: 411
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9bdec9e9f68350f4a9f3ae977a8e0e4d
-      internalID: 1262788895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerProjeto_21
-      rect:
-        serializedVersion: 2
-        x: 3353
-        y: 394
-        width: 9
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a91ea01872d85e4c9061185c58be25b
-      internalID: -244769966
+      spriteID: a4487b5f64cd66e469a1aece37085c97
+      internalID: -1260468023
       vertices: []
       indices: 
       edges: []
@@ -553,29 +511,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PlayerProjeto_0: -637398684
-      PlayerProjeto_1: 186297644
-      PlayerProjeto_10: 357785602
-      PlayerProjeto_11: -1891250063
-      PlayerProjeto_12: -438917854
-      PlayerProjeto_13: -955887888
-      PlayerProjeto_14: 1054729327
-      PlayerProjeto_15: -476396036
-      PlayerProjeto_16: 53914222
-      PlayerProjeto_17: 519785910
-      PlayerProjeto_18: 960761844
-      PlayerProjeto_19: -1762924543
-      PlayerProjeto_2: 124400719
-      PlayerProjeto_20: 1262788895
-      PlayerProjeto_21: -244769966
-      PlayerProjeto_22: -1138534889
-      PlayerProjeto_3: 1298902350
-      PlayerProjeto_4: -221466551
-      PlayerProjeto_5: 188998965
-      PlayerProjeto_6: 714220075
-      PlayerProjeto_7: 1898154664
-      PlayerProjeto_8: -305925145
-      PlayerProjeto_9: 1192576320
+      PlayerProjetoShadows_0: 1842423590
+      PlayerProjetoShadows_1: 104293464
+      PlayerProjetoShadows_10: -1788784565
+      PlayerProjetoShadows_11: -1324618445
+      PlayerProjetoShadows_12: 971854402
+      PlayerProjetoShadows_13: 490770160
+      PlayerProjetoShadows_14: -559005570
+      PlayerProjetoShadows_15: -1596313104
+      PlayerProjetoShadows_16: 2039357050
+      PlayerProjetoShadows_17: -1260468023
+      PlayerProjetoShadows_2: -1688446024
+      PlayerProjetoShadows_3: 1021387060
+      PlayerProjetoShadows_4: 1693045035
+      PlayerProjetoShadows_5: -912124708
+      PlayerProjetoShadows_6: 1073631772
+      PlayerProjetoShadows_7: 1943578300
+      PlayerProjetoShadows_8: -1387373134
+      PlayerProjetoShadows_9: 699335027
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
