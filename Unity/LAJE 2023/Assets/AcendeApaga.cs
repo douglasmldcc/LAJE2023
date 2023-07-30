@@ -23,7 +23,4 @@ public class AcendeApaga : MonoBehaviour
             acendeApaga.enabled = !acendeApaga.enabled;
         }
     }
-
-
-
 }
