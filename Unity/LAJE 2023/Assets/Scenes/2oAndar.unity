@@ -4468,8 +4468,8 @@ GameObject:
   - component: {fileID: 1682830831}
   - component: {fileID: 1682830830}
   - component: {fileID: 1682830832}
-  - component: {fileID: 1682830833}
   - component: {fileID: 1682830834}
+  - component: {fileID: 1682830835}
   m_Layer: 0
   m_Name: Inimigo
   m_TagString: Untagged
@@ -4518,12 +4518,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 1753540120, guid: cf7ae1f79a6e92e4fb43c3e36105c829, type: 3}
+  m_Sprite: {fileID: 273290541, guid: f591e4124fa6c994dbb57b68719c3c40, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 0.75}
+  m_Size: {x: 1, y: 2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4571,8 +4571,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!58 &1682830833
-CircleCollider2D:
+--- !u!114 &1682830834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1682830829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e770621e4a63e0f4daefa95188d339d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadeDoInimigo: 1
+--- !u!70 &1682830835
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -4603,23 +4616,10 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.020548642, y: 0}
-  serializedVersion: 2
-  m_Radius: 0.47945136
---- !u!114 &1682830834
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1682830829}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e770621e4a63e0f4daefa95188d339d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  velocidadeDoInimigo: 1
---- !u!43 &1810498195
+  m_Offset: {x: 0.011908472, y: 0.07145119}
+  m_Size: {x: 0.7856463, y: 1.3331223}
+  m_Direction: 0
+--- !u!43 &1810237072
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4847,8 +4847,8 @@ MonoBehaviour:
   - {x: 0.12356359, y: -0.643304, z: 0}
   - {x: -0.12765005, y: -0.63302684, z: 0}
   m_ShapePathHash: -692535982
-  m_Mesh: {fileID: 1810498195}
-  m_InstanceId: 36258
+  m_Mesh: {fileID: 1810237072}
+  m_InstanceId: 30426
   m_LocalBounds:
     m_Center: {x: -0.0025201738, y: -0.6852348, z: 0}
     m_Extent: {x: 0.14431518, y: 0.052207947, z: 0}
