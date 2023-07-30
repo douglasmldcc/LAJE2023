@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UltimoAndar.unity
     guid: feb5059941ad06744a9fc385ea8614f7
+  - enabled: 1
+    path: Assets/Scenes/Quartinho2.unity
+    guid: 2fe6e3a1bef8b4049860604794a2f59c
+  - enabled: 1
+    path: Assets/Scenes/QuartinhoChave2.unity
+    guid: afd12c38493d5784fb90f5ddc492e9b5
   m_configObjects: {}

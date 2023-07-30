@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: 7beb27292473d0e47997e56fc0216eae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1631
+        width: 135
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a05ce6dafaa664e881f136a9ab52be
+      internalID: 1351776415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1648
+        width: 105
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e3b15b764349240b8cfd22ed198a29
+      internalID: -1447583548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1629
+        width: 169
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5213d2a0109174b9f340f08a61aa85
+      internalID: -620373393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_3
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1702
+        width: 98
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48da11edfefb16478d4bfae865ff24d
+      internalID: 1676583296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1706
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf87142dcb69b749a3bc78df2111382
+      internalID: -28592731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1476
+        width: 206
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befa3124129f5794a90af37c2764fd3a
+      internalID: 843645710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1503
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f4067ba84bf4b458f35ec3b2160499
+      internalID: -888924275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1175
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 89, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b30aee6f7960d499598d29ac0a2250
+      internalID: -705505898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1178
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d53cd0023b21f744ba0889b82758c60
+      internalID: 1339020830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1210
+        width: 62
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95664fbdf750f045a4314dd95ea93d7
+      internalID: -782355829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1239
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226f0299c6360f343af8d1e5ae941678
+      internalID: 1123857715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_11
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1167
+        width: 161
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e0bd4c58743c4b9c5e4d8e11541ab
+      internalID: -2110301246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_12
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1173
+        width: 35
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea7232c7beea594ab6a746f0a55740b
+      internalID: -48460806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1010
+        width: 255
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 93, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05d8c314dea6af45913f48e5c094f7d
+      internalID: -2005306650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1009
+        width: 164
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d53f77d1cc6fa746b7ff3fa8144a473
+      internalID: -1584702673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_15
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1036
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ad3d4031fdd1b43827cebdc91718fd
+      internalID: 1351019988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_16
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1036
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe6120c0438804e880144209b5f4ca
+      internalID: 1590761356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 862
+        width: 161
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad0daf03690f8e459828c7f3b751e8d
+      internalID: 66128624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 861
+        width: 163
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6518e651cbb1f41854fdd8271a511b
+      internalID: -1440251328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 787
+        width: 32
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103e21cc340aa524ba2e9e2a1de632a7
+      internalID: 895867240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 854
+        width: 141
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7181ba8d88ca1164498731da2bdeb677
+      internalID: 1899708805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 733
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49864bd503630d742a4ecb952cd5e364
+      internalID: -1195449332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 735
+        width: 162
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5d21587fa03334386ffc2da7de7287
+      internalID: -299263450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 588
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6c51466b29e6b4a8b0ecf232bcbca4
+      internalID: 1481393255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 587
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faaa7d404d0e014eaaa8b004ec47053
+      internalID: -716877726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_25
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 398
+        width: 124
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e215591ab7957e47a66591e54815ace
+      internalID: -1849661725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 447
+        width: 68
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64b39e856aa2442b29a7221d8153e6
+      internalID: -1930835020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 449
+        width: 133
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cbd2583db66ff4f8698e81f53efc43
+      internalID: -309888230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projeto+(20230729063510)_28
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 402
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991f4a750f13a2843a14052f20dab255
+      internalID: 1087075560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Projeto+(20230729063510)_0: 1351776415
+      Projeto+(20230729063510)_1: -1447583548
+      Projeto+(20230729063510)_10: 1123857715
+      Projeto+(20230729063510)_11: -2110301246
+      Projeto+(20230729063510)_12: -48460806
+      Projeto+(20230729063510)_13: -2005306650
+      Projeto+(20230729063510)_14: -1584702673
+      Projeto+(20230729063510)_15: 1351019988
+      Projeto+(20230729063510)_16: 1590761356
+      Projeto+(20230729063510)_17: 66128624
+      Projeto+(20230729063510)_18: -1440251328
+      Projeto+(20230729063510)_19: 895867240
+      Projeto+(20230729063510)_2: -620373393
+      Projeto+(20230729063510)_20: 1899708805
+      Projeto+(20230729063510)_21: -1195449332
+      Projeto+(20230729063510)_22: -299263450
+      Projeto+(20230729063510)_23: 1481393255
+      Projeto+(20230729063510)_24: -716877726
+      Projeto+(20230729063510)_25: -1849661725
+      Projeto+(20230729063510)_26: -1930835020
+      Projeto+(20230729063510)_27: -309888230
+      Projeto+(20230729063510)_28: 1087075560
+      Projeto+(20230729063510)_3: 1676583296
+      Projeto+(20230729063510)_4: -28592731
+      Projeto+(20230729063510)_5: 843645710
+      Projeto+(20230729063510)_6: -888924275
+      Projeto+(20230729063510)_7: -705505898
+      Projeto+(20230729063510)_8: 1339020830
+      Projeto+(20230729063510)_9: -782355829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
